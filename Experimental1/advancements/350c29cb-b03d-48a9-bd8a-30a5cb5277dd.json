@@ -413,6 +413,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_birch_wood": {
+    "criteria": {
+      "has_log": "2021-04-30 09:43:33 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lime_dye": {
     "criteria": {
       "has_green_dye": "2020-04-17 14:14:35 -0400"
@@ -1080,6 +1086,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2021-04-30 09:43:33 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_sand": "2020-04-17 14:46:41 -0400"
@@ -1482,5 +1494,5 @@
     },
     "done": true
   },
-  "DataVersion": 2580
+  "DataVersion": 2586
 }
