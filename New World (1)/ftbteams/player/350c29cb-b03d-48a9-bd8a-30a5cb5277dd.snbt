@@ -1,0 +1,16 @@
+{
+	id: "350c29cb-b03d-48a9-bd8a-30a5cb5277dd"
+	type: "player"
+	player_name: "LOWERCASE_"
+	ranks: {
+		350c29cb-b03d-48a9-bd8a-30a5cb5277dd: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "LOWERCASE_"
+		"ftbteams:color": "#59FFFF"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+	}
+	message_history: [ ]
+	extra: { }
+}

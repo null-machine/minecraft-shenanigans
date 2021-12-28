@@ -1,0 +1,16 @@
+{
+	id: "3095dc1d-2b24-42ca-8da6-83d45cd595e5"
+	type: "player"
+	player_name: "berriisss"
+	ranks: {
+		3095dc1d-2b24-42ca-8da6-83d45cd595e5: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "berriisss"
+		"ftbteams:color": "#FF59F0"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+	}
+	message_history: [ ]
+	extra: { }
+}
